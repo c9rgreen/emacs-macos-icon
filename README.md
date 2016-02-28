@@ -1,4 +1,4 @@
-An Emacs Yosemite Icon
+An Emacs icon for El Capitan
 ======================
 
 ## How to Use
