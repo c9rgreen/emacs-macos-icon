@@ -1,10 +1,16 @@
-An Emacs icon for El Capitan
-======================
+# Emacs icon for macOS Sonoma
 
-## How to Use
-1. Locate your Emacs.app in Finder and choose File > Get Info
-2. Drag emacs.icns onto the icon near the top of the Get Info window (see [http://support.apple.com/kb/PH13922](http://support.apple.com/kb/PH13922))
+![Emacs icon](https://raw.githubusercontent.com/cg433n/emacs-macos-icon/main/Emacs.iconset/icon_512x512.png)
 
-![emacs icon](https://raw.githubusercontent.com/cg433n/emacs-yosemite-icon/master/emacs.iconset/icon_512x512@2x.png)
+## Usage
 
-Licensed under GPL (http://www.gnu.org/licenses/gpl.txt)
+See [macOS User Guide](https://support.apple.com/guide/mac-help/change-icons-for-files-or-folders-on-mac-mchlp2313/mac))
+
+## License
+
+GPL 3 (http://www.gnu.org/licenses/gpl.txt)
+
+## Build
+
+1. Export slices from `Emacs.sketch`
+2. Run `iconutil -c icns Emacs.iconset -o Emacs.icns`
