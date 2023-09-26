@@ -8,9 +8,11 @@ See [macOS User Guide](https://support.apple.com/guide/mac-help/change-icons-for
 
 ## License
 
-GPL 3 (http://www.gnu.org/licenses/gpl.txt)
+[GPL 3](http://www.gnu.org/licenses/gpl.txt)
 
 ## Build
 
 1. Export slices from `Emacs.sketch`
-2. Run `iconutil -c icns Emacs.iconset -o Emacs.icns`
+2. Run `iconutil -c icns Emacs.iconset -o Emacs.icns`**
+
+*Requires [command line tools](https://developer.apple.com/xcode/resources/)
