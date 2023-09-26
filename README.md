@@ -13,6 +13,6 @@ See [macOS User Guide](https://support.apple.com/guide/mac-help/change-icons-for
 ## Build
 
 1. Export slices from `Emacs.sketch`
-2. Run `iconutil -c icns Emacs.iconset -o Emacs.icns`**
+2. Run `iconutil -c icns Emacs.iconset -o Emacs.icns`*
 
 *Requires [command line tools](https://developer.apple.com/xcode/resources/)
