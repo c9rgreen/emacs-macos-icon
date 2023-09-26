@@ -8,7 +8,7 @@ See [macOS User Guide](https://support.apple.com/guide/mac-help/change-icons-for
 
 ## License
 
-[GPL 3](http://www.gnu.org/licenses/gpl.txt)
+[GPL3](http://www.gnu.org/licenses/gpl.txt)
 
 ## Build
 
