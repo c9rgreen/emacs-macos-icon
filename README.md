@@ -1,10 +1,10 @@
 # Emacs icon for macOS Sonoma
 
-![Emacs icon](https://raw.githubusercontent.com/cg433n/emacs-macos-icon/main/Emacs.iconset/icon_512x512.png)
+![Emacs icon](emacs.iconset/icon_512x512.png)
 
 ## Usage
 
-See [macOS User Guide](https://support.apple.com/guide/mac-help/change-icons-for-files-or-folders-on-mac-mchlp2313/mac))
+See [macOS User Guide](https://support.apple.com/guide/mac-help/change-icons-for-files-or-folders-on-mac-mchlp2313/mac)
 
 ## License
 
